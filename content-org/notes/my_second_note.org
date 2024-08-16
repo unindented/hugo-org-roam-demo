@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d54f9d4e-da62-46ec-af00-6bf76ab5ed75
+:END:
+#+title: My second note
+#+filetags: :emacs:org:
+#+date: [2024-08-13 Tue 13:01]
+#+hugo_bundle: my_second_note
+#+export_file_name: index
+
+Reference to [[id:50b84cf2-d304-4253-b63b-2382b83d4c24][my first note]].

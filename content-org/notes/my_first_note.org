@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       50b84cf2-d304-4253-b63b-2382b83d4c24
+:END:
+#+title: My first note
+#+filetags: :emacs:org:
+#+date: [2024-08-12 Mon 18:32]
+#+hugo_bundle: my_first_note
+#+export_file_name: index
+
+* Lorem ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque urna sed enim finibus feugiat. Maecenas ut venenatis leo. In et orci sit amet odio blandit tincidunt.
